@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "slickpay-gateway-module",
+    "license": "MIT",
+    "category": "gateway",
+    "description": {
+        "name": "Slick-Pay Payment Gateway Module",
+        "tagline": "Integrate the Slick-Pay Third Party Payment Gateway.",
+        "long": "Slick-Pay Payment Gateway Module allow you to integrate Slick-Pay API solutions with the WHMCS platform.",
+        "features": [
+            "Provide Slick-Pay API integration within WHMCS"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.slick-pay.com\/",
+        "learn_more": "https:\/\/www.slick-pay.com\/#service",
+        "email": "contact@slick-pay.com",
+        "docs_url": "https:\/\/devapi.slick-pay.com\/"
+    },
+    "authors": [
+        {
+            "name": "Slick-Pay",
+            "homepage": "https:\/\/www.slick-pay.com\/"
+        }
+    ]
+}
